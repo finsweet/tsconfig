@@ -1,0 +1,31 @@
+{
+  "name": "@finsweet/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for all Finsweet projects.",
+  "main": "tsconfig.json",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "peerDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finsweet/tsconfig.git"
+  },
+  "keywords": [
+    "finsweet",
+    "typescript",
+    "tsconfig",
+    "webflow"
+  ],
+  "author": {
+    "name": "Finsweet",
+    "url": "https://www.finsweet.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finsweet/tsconfig/issues"
+  },
+  "homepage": "https://github.com/finsweet/tsconfig#readme"
+}

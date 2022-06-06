@@ -6,6 +6,8 @@ Shared TypeScript config for all Finsweet projects.
 
 ```bash
 pnpm add -D @finsweet/tsconfig
+npm install -D @finsweet/tsconfig
+yarn add --dev @finsweet/tsconfig
 ```
 
 ## Usage

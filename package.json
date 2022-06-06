@@ -2,7 +2,11 @@
   "name": "@finsweet/tsconfig",
   "version": "1.0.0",
   "description": "Shared TypeScript config for all Finsweet projects.",
+  "license": "MIT",
   "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/finsweet/tsconfig.git"
@@ -17,7 +21,6 @@
     "name": "Finsweet",
     "url": "https://www.finsweet.com/"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/finsweet/tsconfig/issues"
   },

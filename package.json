@@ -1,6 +1,6 @@
 {
   "name": "@finsweet/tsconfig",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Shared TypeScript config for all Finsweet projects.",
   "license": "MIT",
   "main": "tsconfig.json",

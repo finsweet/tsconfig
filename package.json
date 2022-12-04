@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/finsweet/tsconfig/issues"
   },
-  "homepage": "https://github.com/finsweet/tsconfig#readme"
+  "homepage": "https://github.com/finsweet/tsconfig#readme",
+  "scripts": {
+    "release": "changeset publish"
+  },
+  "devDependencies": {
+    "@changesets/changelog-git": "^0.1.13",
+    "@changesets/cli": "^2.25.2"
+  }
 }

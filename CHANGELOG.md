@@ -1,5 +1,11 @@
 # @finsweet/tsconfig
 
+## 1.3.1
+
+### Patch Changes
+
+- c0d7cfc: Roll back to `moduleResolution="node"` because it seems that many libraries still don't support the new `bundler` option.
+
 ## 1.3.0
 
 ### Minor Changes

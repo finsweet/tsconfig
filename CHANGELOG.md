@@ -1,5 +1,11 @@
 # @finsweet/tsconfig
 
+## 1.3.4
+
+### Patch Changes
+
+- f980a8b: chore: updated dependencies
+
 ## 1.3.3
 
 ### Patch Changes

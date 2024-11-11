@@ -1,5 +1,15 @@
 # @finsweet/tsconfig
 
+## 1.4.0
+
+### Minor Changes
+
+- 37a6510: feat: switched to "moduleResolution": "Bundler"
+
+### Patch Changes
+
+- 37a6510: chore: updated dependencies
+
 ## 1.3.4
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @finsweet/tsconfig
 
+## 1.4.2
+
+### Patch Changes
+
+- 6dea104: chore: updated dependencies
+
 ## 1.4.1
 
 ### Patch Changes
